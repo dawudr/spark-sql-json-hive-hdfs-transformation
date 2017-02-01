@@ -1,0 +1,28 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# temporary add this jars until we have a proper nexus installation
+!libs/nClient.jar
+!libs/nJ2EE.jar
+!libs/nJMS.jar
+!libs/nP2P.jar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target
+
+jms_kafka_adapter.log
+logging.*
+
+# Idea
+.idea
+*.iml
+.DS_Store
