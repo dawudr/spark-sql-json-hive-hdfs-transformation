@@ -1,0 +1,6686 @@
+{
+  "page_meta": {
+    "limit": 50, 
+    "offset": 150, 
+    "total": 2553
+  }, 
+  "results": [
+    {
+      "closed": null, 
+      "code": "0562", 
+      "contact": {
+        "address1": "1 Claps Gate Lane", 
+        "address2": "", 
+        "city": "LONDON", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "E6 6JF", 
+        "telephone": ""
+      }, 
+      "district_code": "0569", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.52137", 
+        "lon": "0.06601"
+      }, 
+      "name": "Beckton CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:30"
+        }
+      ], 
+      "other_name": "Beckton CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "0563", 
+      "contact": {
+        "address1": "1 Claps Gate Lane", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "E6 6JF", 
+        "telephone": "0208 591 8643"
+      }, 
+      "district_code": "0569", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.52161", 
+        "lon": "0.06920"
+      }, 
+      "name": "Beckton PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }
+      ], 
+      "other_name": "Beckton PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10010569", 
+      "contact": {
+        "address1": "1 Claps Gate Lane", 
+        "address2": "", 
+        "city": "LONDON", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "E6 6JF", 
+        "telephone": "0208 594 7524"
+      }, 
+      "district_code": "0569", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 65, 
+          "name": "Care Home"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 66, 
+          "name": "Medicines Assessment & Compliance Support"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.52137", 
+        "lon": "0.06601"
+      }, 
+      "name": "Beckton PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Beckton PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "4913", 
+      "contact": {
+        "address1": "25-28 Bedford Place", 
+        "address2": "", 
+        "city": "Southampton", 
+        "county": "", 
+        "manager": "Darren White", 
+        "post_code": "SO15 2DB", 
+        "telephone": "023 8024 1200"
+      }, 
+      "district_code": "4913", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "The Honeypot Childrens  Charity", 
+          "charity_url": "http://www.honeypot.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1011672", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Oasis Down to Earth Farm", 
+          "charity_url": "http://www.downtoearthfarm.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1138872", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Springhill Parents And Friends Association", 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": "1147247", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "50.91242", 
+        "lon": "-1.40620"
+      }, 
+      "name": "Bedford Place Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bedford Place Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": {
+        "description": "", 
+        "end_date": null, 
+        "start_date": null
+      }, 
+      "code": "6197", 
+      "contact": {
+        "address1": "Beehive Trading Park", 
+        "address2": "Haslingden Road", 
+        "city": "Blackburn", 
+        "county": "Lancashire", 
+        "manager": "", 
+        "post_code": "BB1 2EE", 
+        "telephone": "01254 681907"
+      }, 
+      "district_code": "6197", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 21, 
+          "category_name": "Partnerships", 
+          "id": 96, 
+          "name": "Euro Garages"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 97, 
+          "name": "Starbucks on the go"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 99, 
+          "name": "f002"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 1, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 2, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 3, 
+          "registered_charity_number": "", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.73044", 
+        "lon": "-2.45188"
+      }, 
+      "name": "Bee Hive Has Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "00:00"
+        }
+      ], 
+      "other_name": "Beehive Haslingden Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "0859", 
+      "contact": {
+        "address1": "Stoney Street", 
+        "address2": "Beeston", 
+        "city": "Nottingham", 
+        "county": "", 
+        "manager": "Luke Palmer", 
+        "post_code": "NG9 2LA", 
+        "telephone": "0115 922 3461"
+      }, 
+      "district_code": "0859", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Nottingham Hospitals Charity Ward E37 & E38", 
+          "charity_url": "http://nottinghamhospitalscharity.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1165397", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Maggie's Nottingham", 
+          "charity_url": "http://www.maggiescentres.org/our-centres/maggies-nottingham/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "SC024414", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "MySight", 
+          "charity_url": "http://www.mysightnotts.org.uk/about-us/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "511288", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.92875", 
+        "lon": "-1.21453"
+      }, 
+      "name": "Beeston", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Beeston", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0477", 
+      "contact": {
+        "address1": "Stoney Street", 
+        "address2": "Beeston", 
+        "city": "Nottingham", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "NG9 2LA", 
+        "telephone": "01159 228925"
+      }, 
+      "district_code": "0859", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.92895", 
+        "lon": "-1.21519"
+      }, 
+      "name": "Beeston PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "19:00", 
+          "start_time": "09:00"
+        }
+      ], 
+      "other_name": "Beeston PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "4820", 
+      "contact": {
+        "address1": "13-14 Bermondsey Square", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Leon Francis", 
+        "post_code": "SE1 3UN", 
+        "telephone": "020 7407 1421"
+      }, 
+      "district_code": "4820", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Dimbleby Cancer Care   ", 
+          "charity_url": "http://www.dimblebycancercare.org/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "247558", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "The Salmon Youth Centre", 
+          "charity_url": "http://salmoncentre.co.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "278979", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Poverty", 
+          "charity_name": "Manna Society", 
+          "charity_url": "http://mannasociety.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "294691", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.49758", 
+        "lon": "-0.08040"
+      }, 
+      "name": "Bermondsey Sq Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bermondsey Square Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4544", 
+      "contact": {
+        "address1": "192 - 196 Jamaica Road", 
+        "address2": "Bermondsey", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Simon Botting", 
+        "post_code": "SE16 4RT", 
+        "telephone": "020 7699 8520"
+      }, 
+      "district_code": "4544", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Poverty", 
+          "charity_name": "The Albin-Dyer Bermondsey and Rotherhithe Foundation Limited", 
+          "charity_url": "http://www.charitychoice.co.uk/the-albin-dyer-bermondsey-and-rotherhithe-foundation-limited-77308", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1067137", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Bermondsey Community Nursery", 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": "1044103", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Bermondsey Based Deaf Childrens Charity", 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": "1105835", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.49820", 
+        "lon": "-0.06140"
+      }, 
+      "name": "Bermondsey Statn Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bermondsey Station Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "10012048", 
+      "contact": {
+        "address1": "Berryden Road", 
+        "address2": "", 
+        "city": "ABERDEEN", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "AB25  3SA", 
+        "telephone": "01224 630 508"
+      }, 
+      "district_code": "2048", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 61, 
+          "name": "Supervised Administration"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 68, 
+          "name": "Minor Ailment Service"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 69, 
+          "name": "Out of Hours"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 71, 
+          "name": "Emergency Hormonal Contraception"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 73, 
+          "name": "Patient Group Directions"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "57.15858", 
+        "lon": "-2.11428"
+      }, 
+      "name": "Berryden PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "09:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "18:00", 
+          "start_time": "09:00"
+        }
+      ], 
+      "other_name": "Berryden PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "2048", 
+      "contact": {
+        "address1": "Berryden Road", 
+        "address2": "", 
+        "city": "Aberdeen", 
+        "county": "", 
+        "manager": "David Vass", 
+        "post_code": "AB25 3SA", 
+        "telephone": "01224 631144"
+      }, 
+      "district_code": "2048", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 32, 
+          "name": "Key cutting"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 52, 
+          "name": "Travel Agents"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Create Aberdeen", 
+          "charity_url": "http://www.createaberdeen.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "SC0411611", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "North East Sensory Services", 
+          "charity_url": "http://www.nesensoryservices.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "SC009537", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Befriend a Child", 
+          "charity_url": "http://www.befriendachild.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "SC005467", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "57.15858", 
+        "lon": "-2.11428"
+      }, 
+      "name": "Berryden Rd", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Berryden Road", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3048", 
+      "contact": {
+        "address1": "Berryden Road", 
+        "address2": "", 
+        "city": "ABERDEEN", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "AB25 3SA", 
+        "telephone": ""
+      }, 
+      "district_code": "2048", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "57.15858", 
+        "lon": "-2.11428"
+      }, 
+      "name": "Berryden Rd CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "18:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Berryden Rd CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "4872", 
+      "contact": {
+        "address1": "291 Cambridge Heath Road", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Rehman Sohail", 
+        "post_code": "E2 0EL", 
+        "telephone": "020 7800 1800"
+      }, 
+      "district_code": "4872", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "The Sick Children's Trust", 
+          "charity_url": "http://www.sickchildrenstrust.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "284416", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Grandparents Plus", 
+          "charity_url": "http://www.grandparentsplus.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1093975", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "The Prince's Trust", 
+          "charity_url": "https://www.princes-trust.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1079675", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.52704", 
+        "lon": "-0.05593"
+      }, 
+      "name": "Bethnal Grn Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bethnal Green Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4696", 
+      "contact": {
+        "address1": "89 Bethune Avenue", 
+        "address2": "", 
+        "city": "Hull", 
+        "county": "", 
+        "manager": "Liam Fox", 
+        "post_code": "HU4 7EH", 
+        "telephone": "01482 627112"
+      }, 
+      "district_code": "4696", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Kingston Boxing Centre", 
+          "charity_url": "http://www.cityofhullabc.com/index.htm", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1138497", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Guide Dogs", 
+          "charity_url": "http://www.guidedogs.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "209617", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Emmaus", 
+          "charity_url": "http://www.emmaushull.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1126497", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.73002", 
+        "lon": "-0.41701"
+      }, 
+      "name": "Bethune Ave Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }
+      ], 
+      "other_name": "Bethune Avenue Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4697", 
+      "contact": {
+        "address1": "540 Beverley Road", 
+        "address2": "", 
+        "city": "Hull", 
+        "county": "", 
+        "manager": "Donna Phelan", 
+        "post_code": "HU6 7LG", 
+        "telephone": "01482 448316"
+      }, 
+      "district_code": "4697", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.76860", 
+        "lon": "-0.35340"
+      }, 
+      "name": "Beverley High Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Beverley High Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "0029", 
+      "contact": {
+        "address1": "1 Buckhurst Place", 
+        "address2": "", 
+        "city": "Bexhill-On-Sea", 
+        "county": "", 
+        "manager": "Gavin Boddy", 
+        "post_code": "TN39 3NY", 
+        "telephone": "01424 220207"
+      }, 
+      "district_code": "0029", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Macmillan Cancer Care", 
+          "charity_url": "http://www.macmillan.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "261017", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Alzheimer's Society", 
+          "charity_url": "http://www.alzheimers.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "296645", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Parkinson's UK", 
+          "charity_url": "http://www.parkinsons.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "258197", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.84088", 
+        "lon": "0.47082"
+      }, 
+      "name": "Bexhill", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bexhill", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "2047", 
+      "contact": {
+        "address1": "72 Broadway", 
+        "address2": "", 
+        "city": "Bexleyheath", 
+        "county": "", 
+        "manager": "Manjinder Powar", 
+        "post_code": "DA6 7DF", 
+        "telephone": "020 8298 0376"
+      }, 
+      "district_code": "2047", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Stroke Association", 
+          "charity_url": "http://www.stroke.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "211015", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "ShenStone School", 
+          "charity_url": "http://www.shenstone.bexley.sch.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "284108", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Support Dogs", 
+          "charity_url": "http://www.supportdogs.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1088281", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.45621", 
+        "lon": "0.14910"
+      }, 
+      "name": "Bexleyheath", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bexleyheath", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "6134", 
+      "contact": {
+        "address1": "4 Wrotham Road", 
+        "address2": "Borough Green", 
+        "city": "Wrotham", 
+        "county": "", 
+        "manager": "Steve Bruce", 
+        "post_code": "TN15 8DB", 
+        "telephone": "01732 887 041"
+      }, 
+      "district_code": "6134", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "The Alexandra Sales Trust", 
+          "charity_url": "http://thealexandrasalestrust.co.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1161811", 
+          "winner": true
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.29352", 
+        "lon": "0.30758"
+      }, 
+      "name": "Bgh Gn Wrothm Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "06:00"
+        }
+      ], 
+      "other_name": "Borough Green Wrotham Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4669", 
+      "contact": {
+        "address1": "30 Priory Queensway", 
+        "address2": "", 
+        "city": "Birmingham", 
+        "county": "", 
+        "manager": "Darren Wheatley", 
+        "post_code": "B4 6BS", 
+        "telephone": "0121 2524100"
+      }, 
+      "district_code": "4669", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "John Taylor Hospice", 
+          "charity_url": "http://www.johntaylorhospice.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "7532827", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Macmillan Cancer Support", 
+          "charity_url": "http://www.macmillan.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "261017", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Birmingham Childrens Hospital Charity", 
+          "charity_url": "http://www.bch.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1160875", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.48240", 
+        "lon": "-1.89439"
+      }, 
+      "name": "Bghm Priry Qnswy Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Birmingham Priory Queensway Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4984", 
+      "contact": {
+        "address1": "89 Navigation Street", 
+        "address2": "", 
+        "city": "Birmingham", 
+        "county": "", 
+        "manager": "Sharon Slim", 
+        "post_code": "B5 4AX", 
+        "telephone": "0121 460 6510"
+      }, 
+      "district_code": "4984", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Children's Liver Disease Foundation", 
+          "charity_url": "http://www.childliverdisease.org/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1067331", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.47771", 
+        "lon": "-1.90206"
+      }, 
+      "name": "Bham Nvgation St Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Birmingham Navigation Street Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "6160", 
+      "contact": {
+        "address1": "1 Shenley Road", 
+        "address2": "", 
+        "city": "Borehamwood", 
+        "county": "", 
+        "manager": "Rob Delaney", 
+        "post_code": "WD6 1AA", 
+        "telephone": "0208 219 1100"
+      }, 
+      "district_code": "6160", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.65421", 
+        "lon": "-0.27953"
+      }, 
+      "name": "Bhmwd Shenley Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Borehamwood Shenley Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "6111", 
+      "contact": {
+        "address1": "62 Brookley Road", 
+        "address2": "", 
+        "city": "Brockenhurst", 
+        "county": "", 
+        "manager": "Ross Maycock", 
+        "post_code": "SO42 7RA", 
+        "telephone": "01590 622010"
+      }, 
+      "district_code": "6111", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.81932", 
+        "lon": "-1.57757"
+      }, 
+      "name": "Bhrst Brookly Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Brockenhurst Brookly Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "2243", 
+      "contact": {
+        "address1": "Pioneer Square", 
+        "address2": "Bure Place", 
+        "city": "Bicester", 
+        "county": "", 
+        "manager": "Peter Coutts", 
+        "post_code": "OX26 6FA", 
+        "telephone": "01869 853600"
+      }, 
+      "district_code": "2243", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 108, 
+          "name": "Electric Vehicle Charging Point"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "ARCH Assisted Reading for Children in Oxfordshire", 
+          "charity_url": "http://www.archoxfordshire.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1146276", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "CLIC Sargent Cancer Support for the Young", 
+          "charity_url": "http://www.clicsargent.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1107328", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Bicester Good Neighbour Scheme", 
+          "charity_url": "http://www.goodneighbourscheme.com", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1151621", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.89773", 
+        "lon": "-1.15249"
+      }, 
+      "name": "Bicester", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bicester", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3243", 
+      "contact": {
+        "address1": "Pioneer Square", 
+        "address2": "Bure Place", 
+        "city": "BICESTER", 
+        "county": "", 
+        "manager": "TBC", 
+        "post_code": "OX26 6FA", 
+        "telephone": ""
+      }, 
+      "district_code": "2243", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.89773", 
+        "lon": "-1.15249"
+      }, 
+      "name": "Bicester CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Bicester CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "10012243", 
+      "contact": {
+        "address1": "Pioneer Square", 
+        "address2": "Bure Place", 
+        "city": "BICESTER", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "OX26 6FA", 
+        "telephone": "01869 853600"
+      }, 
+      "district_code": "2243", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 69, 
+          "name": "Out of Hours"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 71, 
+          "name": "Emergency Hormonal Contraception"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 73, 
+          "name": "Patient Group Directions"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 74, 
+          "name": "Chlamydia Screening & Treatment"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.89773", 
+        "lon": "-1.15249"
+      }, 
+      "name": "Bicester PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bicester PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "10112243", 
+      "contact": {
+        "address1": "Pioneer Square", 
+        "address2": "Bure Place", 
+        "city": "BICESTER", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "OX26 6FA", 
+        "telephone": "01869 245676"
+      }, 
+      "district_code": "2243", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.89773", 
+        "lon": "-1.15249"
+      }, 
+      "name": "Bicester Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Bicester Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "2200", 
+      "contact": {
+        "address1": "Wharf Road", 
+        "address2": "Biddulph", 
+        "city": "Stoke on Trent", 
+        "county": "", 
+        "manager": "Duncan Thomson", 
+        "post_code": "ST8 6AJ", 
+        "telephone": "01782 685400"
+      }, 
+      "district_code": "2200", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Mark Hancock Memorial Fund", 
+          "charity_url": "http://www.c-r-y.org.uk/about-us/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1050845", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "The Green Tree House", 
+          "charity_url": "http://www.thegreentreehousecharity.co.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1157178", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.11711", 
+        "lon": "-2.17615"
+      }, 
+      "name": "Biddulph", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Biddulph", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3200", 
+      "contact": {
+        "address1": "Wharf Road", 
+        "address2": "Biddulph", 
+        "city": "STOKE-ON-TRENT", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "ST8 6AJ", 
+        "telephone": ""
+      }, 
+      "district_code": "2200", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "53.11711", 
+        "lon": "-2.17615"
+      }, 
+      "name": "Biddulph CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Biddulph CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "1200", 
+      "contact": {
+        "address1": "Wharf Road", 
+        "address2": "Biddulph", 
+        "city": "Stoke on Trent", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "ST8 6AJ", 
+        "telephone": "01782379359"
+      }, 
+      "district_code": "2200", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 98, 
+          "name": "f001"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 99, 
+          "name": "f002"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "53.11686", 
+        "lon": "-2.17789"
+      }, 
+      "name": "Biddulph PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:30", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }
+      ], 
+      "other_name": "Biddulph PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "4446", 
+      "contact": {
+        "address1": "60 High Street", 
+        "address2": "", 
+        "city": "Biggar", 
+        "county": "", 
+        "manager": "Alistair Patience", 
+        "post_code": "ML12 6BJ", 
+        "telephone": "01899 221046"
+      }, 
+      "district_code": "4446", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Macmillan Cancer Support", 
+          "charity_url": "http://www.macmillan.org.uk/?gclid=ckbwqzejls0cftuo0wodjkeesa", 
+          "nomination_number": 1, 
+          "registered_charity_number": "SC039907", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "Lanarkshire Association for Mental Health", 
+          "charity_url": "http://www.lamh.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "SC010404", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Les Hoey MBE Dream Maker Foundation", 
+          "charity_url": "http://www.leshoeymbedreammakerfoundation.org", 
+          "nomination_number": 3, 
+          "registered_charity_number": "SC045098", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "55.62366", 
+        "lon": "-3.52525"
+      }, 
+      "name": "Biggar High St Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Biggar High Street Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": {
+        "description": "", 
+        "end_date": null, 
+        "start_date": null
+      }, 
+      "code": "0426", 
+      "contact": {
+        "address1": "Bells Brook", 
+        "address2": "", 
+        "city": "Biggleswade", 
+        "county": "", 
+        "manager": "Simon Ainger", 
+        "post_code": "SG18 0NA", 
+        "telephone": "01767 317587"
+      }, 
+      "district_code": "0426", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 19, 
+          "name": "Dry Cleaning"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 26, 
+          "name": "Photo Processing"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 32, 
+          "name": "Key cutting"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 80, 
+          "name": "Click & Collect Groceries"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "St Johns Hospice Moggerhanger - Sue Ryder", 
+          "charity_url": "http://www.sueryder.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1052076", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Dunton Community Garden Group", 
+          "charity_url": "http://www.duntongarden.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1113186", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Carers in Bedfordshire", 
+          "charity_url": "http://www.carersinbeds.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1135507", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.09337", 
+        "lon": "-0.27371"
+      }, 
+      "name": "Biggleswade", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Biggleswade", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0330", 
+      "contact": {
+        "address1": "Bells Brook", 
+        "address2": "", 
+        "city": "BIGGLESWADE", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "SG18 0NA", 
+        "telephone": ""
+      }, 
+      "district_code": "0426", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.09337", 
+        "lon": "-0.27371"
+      }, 
+      "name": "Biggleswade CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:00", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Biggleswade CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "0439", 
+      "contact": {
+        "address1": "Bells Brook", 
+        "address2": "", 
+        "city": "Biggleswade", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "SG18 0NA", 
+        "telephone": "01767 317602"
+      }, 
+      "district_code": "0426", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.09284", 
+        "lon": "-0.27226"
+      }, 
+      "name": "Biggleswade PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "05:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Biggleswade PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10010426", 
+      "contact": {
+        "address1": "Bells Brook", 
+        "address2": "", 
+        "city": "BIGGLESWADE", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "SG18 0NA", 
+        "telephone": "01767 275207"
+      }, 
+      "district_code": "0426", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 61, 
+          "name": "Supervised Administration"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 63, 
+          "name": "On Demand Availability of Specialist Drugs"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 74, 
+          "name": "Chlamydia Screening & Treatment"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.09337", 
+        "lon": "-0.27371"
+      }, 
+      "name": "Biggleswade PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Biggleswade PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "10110426", 
+      "contact": {
+        "address1": "Bells Brook", 
+        "address2": "", 
+        "city": "Biggleswade", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "SG18 0NA", 
+        "telephone": null
+      }, 
+      "district_code": "0426", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.09337", 
+        "lon": "-0.27371"
+      }, 
+      "name": "Biggleswade Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Biggleswade Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "4614", 
+      "contact": {
+        "address1": "12-14 Clifton Avenue", 
+        "address2": "", 
+        "city": "Billingham", 
+        "county": "", 
+        "manager": "Andrew Lyth", 
+        "post_code": "TS22 5DE", 
+        "telephone": "01642 530530"
+      }, 
+      "district_code": "4614", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "The Children's Society", 
+          "charity_url": "http://www.childrenssociety.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "221124", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "PATCH", 
+          "charity_url": "http://www.patchfamilysupport.co.uk/index.asp", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1157593", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "New Sands Group Teesside", 
+          "charity_url": "https://www.uk-sands.org/news/groups/2014-09-16/new-sands-group-teesside-sands", 
+          "nomination_number": 3, 
+          "registered_charity_number": "229679", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "54.61164", 
+        "lon": "-1.30890"
+      }, 
+      "name": "Billingham Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }
+      ], 
+      "other_name": "Billingham Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": {
+        "description": "", 
+        "end_date": null, 
+        "start_date": null
+      }, 
+      "code": "6492", 
+      "contact": {
+        "address1": "Radford Way", 
+        "address2": "", 
+        "city": "BILLERICAY", 
+        "county": "", 
+        "manager": "Nick Cordingley", 
+        "post_code": "CM12 0EG", 
+        "telephone": "0127730 4000"
+      }, 
+      "district_code": "6492", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 1, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 2, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 3, 
+          "registered_charity_number": "", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.63107", 
+        "lon": "0.40985"
+      }, 
+      "name": "Bilrcy Radfrd Wy Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Billericay Radford Way Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4122", 
+      "contact": {
+        "address1": "8 Market Street", 
+        "address2": "Bingham", 
+        "city": "Nottingham", 
+        "county": "", 
+        "manager": "Stuart Fraser", 
+        "post_code": "NG13 8AB", 
+        "telephone": "01949 838388"
+      }, 
+      "district_code": "4122", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Bingham United Charities", 
+          "charity_url": "http://directory.uk-b2b-info.com/org/charity/213913/bingham-united-charities-2006/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "213913", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "The Bingham Trust Scheme", 
+          "charity_url": "http://binghamtrust.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "513436", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Bingham Penguins Swimming Club", 
+          "charity_url": "http://binghampenguins.org/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1093749", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "52.95184", 
+        "lon": "-0.95309"
+      }, 
+      "name": "Bingham LL", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bingham Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4563", 
+      "contact": {
+        "address1": "117 Main Street", 
+        "address2": "", 
+        "city": "Bingley", 
+        "county": "", 
+        "manager": "Colin Heslop", 
+        "post_code": "BD16 1AJ", 
+        "telephone": "01274 566188"
+      }, 
+      "district_code": "4563", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Manorlands Hospice", 
+          "charity_url": "http://m.sueryder.org/care-centres/hospices/manorlands", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1052076", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Down Syndrome Training  and Support Service Limited", 
+          "charity_url": "http://www.downsupportbradford.btck.co.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1130994", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.84791", 
+        "lon": "-1.83787"
+      }, 
+      "name": "Bingley Main Str Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bingley Main Street Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4854", 
+      "contact": {
+        "address1": "Fallowfield Shopping Centre", 
+        "address2": "Birchfields Road", 
+        "city": "Manchester", 
+        "county": "", 
+        "manager": "Mike Copeland", 
+        "post_code": "M14 6FS", 
+        "telephone": "0161 248 4927"
+      }, 
+      "district_code": "4854", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Ladybarn Community Association", 
+          "charity_url": "http://www.ladybarncentre.webs.com", 
+          "nomination_number": 1, 
+          "registered_charity_number": "700038", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Anson Cabin Project", 
+          "charity_url": "http://www.ansoncabin.co.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1135883", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Fallowfield & Withington Foodbank", 
+          "charity_url": "http://www.fallowfieldwithington.foodbank.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1110522", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "53.44385", 
+        "lon": "-2.20438"
+      }, 
+      "name": "Birchfields Rd", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Birchfields Road", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0717", 
+      "contact": {
+        "address1": "342a Woodchurch Road", 
+        "address2": "", 
+        "city": "Birkenhead", 
+        "county": "", 
+        "manager": "Laura Smith", 
+        "post_code": "CH42 8PQ", 
+        "telephone": "0151 608 0383"
+      }, 
+      "district_code": "0717", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Abbeyfield", 
+          "charity_url": "http://abbeyfield.com", 
+          "nomination_number": 1, 
+          "registered_charity_number": "255757", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Maggie's", 
+          "charity_url": "http://www.maggiescentres.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "SC024414", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "Alzheimer's Society", 
+          "charity_url": "https://www.alzheimers.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "296645", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "53.37387", 
+        "lon": "-3.04690"
+      }, 
+      "name": "Birkenhead", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Birkenhead", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0137", 
+      "contact": {
+        "address1": "342a Woodchurch Road", 
+        "address2": "", 
+        "city": "Birkenhead", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "CH42 8PQ", 
+        "telephone": "01516 089246"
+      }, 
+      "district_code": "0717", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "53.37472", 
+        "lon": "-3.04765"
+      }, 
+      "name": "Birkenhead PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Birkenhead PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "4894", 
+      "contact": {
+        "address1": "16-20 Colmore Row", 
+        "address2": "", 
+        "city": "Birmingham", 
+        "county": "", 
+        "manager": "Helena Ravenhall", 
+        "post_code": "B3 2QD", 
+        "telephone": "0121 236 5865"
+      }, 
+      "district_code": "4894", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "St Basils", 
+          "charity_url": "http://stbasils.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1080154", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "John Taylor Hospice", 
+          "charity_url": "https://www.johntaylorhospice.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "7532827", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "The Air Ambulance Service", 
+          "charity_url": "http://theairambulanceservice.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1098874", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.48211", 
+        "lon": "-1.89787"
+      }, 
+      "name": "Birmgham Colmore Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Birmingham Colmore Row Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "2199", 
+      "contact": {
+        "address1": "St. Helen Auckland", 
+        "address2": "", 
+        "city": "Bishop Auckland", 
+        "county": "", 
+        "manager": "Christine Jeffrey", 
+        "post_code": "DL14 9AE", 
+        "telephone": "01388 605980"
+      }, 
+      "district_code": "2199", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 24, 
+          "name": "Jet Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 41, 
+          "name": "Maths and English Tuition for Children"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 108, 
+          "name": "Electric Vehicle Charging Point"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Guide Dogs for the Blind", 
+          "charity_url": "http://www.guidedogs.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "209617", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "SSAFA", 
+          "charity_url": "http://www.ssafa.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "210760", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Stroke Association", 
+          "charity_url": "https://www.stroke.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "211015", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "54.63940", 
+        "lon": "-1.69517"
+      }, 
+      "name": "Bishop Auckland", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bishop Auckland", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3199", 
+      "contact": {
+        "address1": "St. Helen Auckland", 
+        "address2": "", 
+        "city": "BISHOP AUCKLAND", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "DL14 9AE", 
+        "telephone": ""
+      }, 
+      "district_code": "2199", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.63940", 
+        "lon": "-1.69517"
+      }, 
+      "name": "Bishop Auckland CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bishop Auckland CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "1199", 
+      "contact": {
+        "address1": "St. Helen Auckland", 
+        "address2": "", 
+        "city": "Bishop Auckland", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "DL14 9AE", 
+        "telephone": "01388603217"
+      }, 
+      "district_code": "2199", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.63832", 
+        "lon": "-1.69265"
+      }, 
+      "name": "Bishop Auckland PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "05:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Bishop Auckland PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10012199", 
+      "contact": {
+        "address1": "St. Helen Auckland", 
+        "address2": "", 
+        "city": "BISHOP AUCKLAND", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "DL14 9LE", 
+        "telephone": "01388 605980 (store)"
+      }, 
+      "district_code": "2199", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 68, 
+          "name": "Minor Ailment Service"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 71, 
+          "name": "Emergency Hormonal Contraception"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 74, 
+          "name": "Chlamydia Screening & Treatment"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 75, 
+          "name": "NHS Health Check"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.63940", 
+        "lon": "-1.69517"
+      }, 
+      "name": "Bishop Auckland PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bishop Auckland PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "10112199", 
+      "contact": {
+        "address1": "St. Helen Auckland", 
+        "address2": "", 
+        "city": "Bishop Auckland", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "DL14 9AE", 
+        "telephone": null
+      }, 
+      "district_code": "2199", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.63940", 
+        "lon": "-1.69517"
+      }, 
+      "name": "Bishop Auckland Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Bishop Auckland Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "2151", 
+      "contact": {
+        "address1": "16 Jackson Square", 
+        "address2": "", 
+        "city": "Bishop'S Stortford", 
+        "county": "", 
+        "manager": "David Dawson", 
+        "post_code": "CM23 3XG", 
+        "telephone": "01279 652730"
+      }, 
+      "district_code": "2151", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 50, 
+          "name": "Sainsbury's Coffee Bar"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.86999", 
+        "lon": "0.16171"
+      }, 
+      "name": "Bishops Stortford", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bishops Stortford", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3151", 
+      "contact": {
+        "address1": "16 Jackson Square", 
+        "address2": "", 
+        "city": "BISHOP'S STORTFORD", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "CM23 3XG", 
+        "telephone": ""
+      }, 
+      "district_code": "2151", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.86999", 
+        "lon": "0.16171"
+      }, 
+      "name": "Bishops Stortford CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Bishops Stortford CS", 
+      "store_type": "restaurant"
+    }
+  ]
+}

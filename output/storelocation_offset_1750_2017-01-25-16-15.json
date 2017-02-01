@@ -1,0 +1,7461 @@
+{
+  "page_meta": {
+    "limit": 50, 
+    "offset": 1750, 
+    "total": 2553
+  }, 
+  "results": [
+    {
+      "closed": null, 
+      "code": "4944", 
+      "contact": {
+        "address1": "28-30 Windsor Road", 
+        "address2": "", 
+        "city": "Penarth", 
+        "county": "", 
+        "manager": "John Jones2", 
+        "post_code": "CF64 1JH", 
+        "telephone": "029 2083 6900"
+      }, 
+      "district_code": "4944", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Emergency", 
+          "charity_name": "Penarth Life Boat Station", 
+          "charity_url": "https://www.rnli.org/findmynearest/station/Pages/Penarth-Lifeboat-Station.aspx", 
+          "nomination_number": 1, 
+          "registered_charity_number": "209603", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "Penarth Sea Cadets", 
+          "charity_url": "http://www.sea-cadets.org/penarth/home.aspx", 
+          "nomination_number": 2, 
+          "registered_charity_number": "313013", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Teenage Cancer Trust Wales", 
+          "charity_url": "https://www.teenagecancertrust.org/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1062559", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.43906", 
+        "lon": "-3.17561"
+      }, 
+      "name": "Penarth Winr Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Penarth Windsor Road Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "2012", 
+      "contact": {
+        "address1": "158-162 High Street", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Chris Greenland", 
+        "post_code": "SE20 7QS", 
+        "telephone": "020 8776 5570"
+      }, 
+      "district_code": "2012", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Friends of Crystal Palace Dinosaurs", 
+          "charity_url": "http://cpdinosaurs.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1165231", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Beckenham & Penge Gateway Club", 
+          "charity_url": "http://thegatewayclub.co.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1071394", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Living Well Bromley", 
+          "charity_url": "http://livingwell.life", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1157385", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.41279", 
+        "lon": "-0.05135"
+      }, 
+      "name": "Penge", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Penge", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "2153", 
+      "contact": {
+        "address1": "1 Common Garden Square", 
+        "address2": "", 
+        "city": "Penrith", 
+        "county": "", 
+        "manager": "Tony Gale", 
+        "post_code": "CA11 7FG", 
+        "telephone": "01768 245800"
+      }, 
+      "district_code": "2153", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 50, 
+          "name": "Sainsbury's Coffee Bar"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Eden Young Carers", 
+          "charity_url": "http://www.edencarers.co.uk/carers/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1101719", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Emergency", 
+          "charity_name": "Penrith Mountain rescue", 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": "505809", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Cumbria Wheelchair Sports", 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": "1144266", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "54.65990", 
+        "lon": "-2.75217"
+      }, 
+      "name": "Penrith", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Penrith", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3153", 
+      "contact": {
+        "address1": "1 Common Garden Square", 
+        "address2": "", 
+        "city": "PENRITH", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "CA11 7HA", 
+        "telephone": ""
+      }, 
+      "district_code": "2153", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.65990", 
+        "lon": "-2.75217"
+      }, 
+      "name": "Penrith CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Penrith CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "10012153", 
+      "contact": {
+        "address1": "1 Common Garden Square", 
+        "address2": "", 
+        "city": "PENRITH", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "CA11 7FG", 
+        "telephone": "01768 245808"
+      }, 
+      "district_code": "2153", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 61, 
+          "name": "Supervised Administration"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 71, 
+          "name": "Emergency Hormonal Contraception"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 75, 
+          "name": "NHS Health Check"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "54.65990", 
+        "lon": "-2.75217"
+      }, 
+      "name": "Penrith PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Penrith PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "4855", 
+      "contact": {
+        "address1": "Birch Avenue", 
+        "address2": "Penwortham", 
+        "city": "Preston", 
+        "county": "", 
+        "manager": "David Binns", 
+        "post_code": "PR1 0LP", 
+        "telephone": "01772 749240"
+      }, 
+      "district_code": "4855", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.74092", 
+        "lon": "-2.73981"
+      }, 
+      "name": "Penwortham Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Penwortham Local", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "2283", 
+      "contact": {
+        "address1": "Eastern Green, Penzance", 
+        "address2": "", 
+        "city": "Cornwall", 
+        "county": "", 
+        "manager": "Steve Moine", 
+        "post_code": "TR18 3AP", 
+        "telephone": "01736 575000"
+      }, 
+      "district_code": "2283", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 80, 
+          "name": "Click & Collect Groceries"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 108, 
+          "name": "Electric Vehicle Charging Point"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Trelya", 
+          "charity_url": "http://www.trelya.com", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1089634", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Children's Hospice South West", 
+          "charity_url": "http://www.chsw.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1003314", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Cornwall Hospice Care", 
+          "charity_url": "http://www.cornwallhospicecare.co.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1113140", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.12806", 
+        "lon": "-5.51888"
+      }, 
+      "name": "Penzance", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Penzance", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3283", 
+      "contact": {
+        "address1": "Eastern Green, Penzance", 
+        "address2": "UNCONFIRMED ADDRESS", 
+        "city": "CORNWALL", 
+        "county": "", 
+        "manager": "TBC", 
+        "post_code": "TR18 3AP", 
+        "telephone": ""
+      }, 
+      "district_code": "2283", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.12806", 
+        "lon": "-5.51888"
+      }, 
+      "name": "Penzance CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:30", 
+          "start_time": "10:30"
+        }
+      ], 
+      "other_name": "Penzance CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "1283", 
+      "contact": {
+        "address1": "Eastern Green, Penzance", 
+        "address2": "", 
+        "city": "Cornwall", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "TR18 3AP", 
+        "telephone": "01736 575000"
+      }, 
+      "district_code": "2283", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.12882", 
+        "lon": "-5.51689"
+      }, 
+      "name": "Penzance PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }
+      ], 
+      "other_name": "Penzance PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10012283", 
+      "contact": {
+        "address1": "Eastern Green, Penzance", 
+        "address2": "", 
+        "city": "CORNWALL", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "TR18 3AP", 
+        "telephone": "01736 575000"
+      }, 
+      "district_code": "2283", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.12806", 
+        "lon": "-5.51888"
+      }, 
+      "name": "Penzance PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Penzance PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "0003", 
+      "contact": {
+        "address1": "Wingfield Bank", 
+        "address2": "Northfleet", 
+        "city": "Gravesend", 
+        "county": "", 
+        "manager": "Robert Petrie", 
+        "post_code": "DA11 8JH", 
+        "telephone": "01474 569318"
+      }, 
+      "district_code": "0003", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 19, 
+          "name": "Dry Cleaning"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 24, 
+          "name": "Jet Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 26, 
+          "name": "Photo Processing"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 32, 
+          "name": "Key cutting"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 38, 
+          "name": "Hand Car Wash"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 41, 
+          "name": "Maths and English Tuition for Children"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 80, 
+          "name": "Click & Collect Groceries"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 81, 
+          "name": "Argos Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Stacey's Smiles", 
+          "charity_url": "http://staceyssmiles.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1164367", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Kent Association for the Blind", 
+          "charity_url": "http://kab.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1062354", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "North Kent Mind", 
+          "charity_url": "http://northkentmind.co.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1103790", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.43021", 
+        "lon": "0.33285"
+      }, 
+      "name": "Pepper Hill", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pepper Hill", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0387", 
+      "contact": {
+        "address1": "Wingfield Bank", 
+        "address2": "Northfleet", 
+        "city": "GRAVESEND", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "DA11 8JH", 
+        "telephone": ""
+      }, 
+      "district_code": "0003", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.43021", 
+        "lon": "0.33285"
+      }, 
+      "name": "Pepper Hill CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Pepper Hill CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "0076", 
+      "contact": {
+        "address1": "Wingfield Bank", 
+        "address2": "Northfleet", 
+        "city": "Gravesend", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "DA11 8JH", 
+        "telephone": "01474 564834"
+      }, 
+      "district_code": "0003", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.42868", 
+        "lon": "0.33227"
+      }, 
+      "name": "Pepper Hill PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:30", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "09:00"
+        }
+      ], 
+      "other_name": "Pepper Hill PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10110003", 
+      "contact": {
+        "address1": "Wingfield Bank", 
+        "address2": "Northfleet", 
+        "city": "GRAVESEND", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "DA11 8JH", 
+        "telephone": "01474 535872"
+      }, 
+      "district_code": "0003", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.43021", 
+        "lon": "0.33285"
+      }, 
+      "name": "Pepper Hill Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pepper Hill Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "4323", 
+      "contact": {
+        "address1": "199-205 High Street", 
+        "address2": "", 
+        "city": "Perth", 
+        "county": "", 
+        "manager": "Gavin McKechnie", 
+        "post_code": "PH1 5PB", 
+        "telephone": "01738 411400"
+      }, 
+      "district_code": "4323", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "MINDSPACE", 
+          "charity_url": "http://www.mindspacepk.com", 
+          "nomination_number": 1, 
+          "registered_charity_number": "SC002072", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "Perth and Kinross ADHD Support Group", 
+          "charity_url": "https://www.facebook.com/PerthKinrossAdhdSupport/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "SC034262", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "Perth Autism Support", 
+          "charity_url": "http://www.perthautismsupport.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "SC042875", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "56.39675", 
+        "lon": "-3.43299"
+      }, 
+      "name": "Perth High St Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Perth High Street Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "0823", 
+      "contact": {
+        "address1": "1 Anders Square", 
+        "address2": "Perton", 
+        "city": "Wolverhampton", 
+        "county": "", 
+        "manager": "Natalie Jacombs", 
+        "post_code": "WV6 7QH", 
+        "telephone": "01902 745106"
+      }, 
+      "district_code": "0823", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Perton First School PTFA", 
+          "charity_url": "http://www.perton-first.staffs.sch.uk/ptfa", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1157183", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Perton Village Nursery", 
+          "charity_url": "http://pertonvillagenursery.com", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1112088", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.59516", 
+        "lon": "-2.20212"
+      }, 
+      "name": "Perton", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Perton", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0136", 
+      "contact": {
+        "address1": "1 Anders Square", 
+        "address2": "Perton", 
+        "city": "Wolverhampton", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "WV6 7QH", 
+        "telephone": "01902 744678"
+      }, 
+      "district_code": "0823", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.59607", 
+        "lon": "-2.20223"
+      }, 
+      "name": "Perton PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Perton PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "0417", 
+      "contact": {
+        "address1": "112 Oxney Road", 
+        "address2": "", 
+        "city": "Peterborough", 
+        "county": "", 
+        "manager": "Karl Cunningham", 
+        "post_code": "PE1 5NG", 
+        "telephone": "01733 897766"
+      }, 
+      "district_code": "0417", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 41, 
+          "name": "Maths and English Tuition for Children"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 81, 
+          "name": "Argos Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Poverty", 
+          "charity_name": "FoodCycle", 
+          "charity_url": "http://foodcycle.org.uk/location/peterborough-hub/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1134423", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Action On Hearing Loss", 
+          "charity_url": "http://www.hearingloss.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "207720", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Peterborough Cat Rescue", 
+          "charity_url": "http://catchat.org/peterboroughcatrescue", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1153044", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "52.58755", 
+        "lon": "-0.21232"
+      }, 
+      "name": "Peterborough", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Peterborough", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "0293", 
+      "contact": {
+        "address1": "Oxney Road", 
+        "address2": "", 
+        "city": "PETERBOROUGH", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "PE1 5NG", 
+        "telephone": ""
+      }, 
+      "district_code": "0417", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.58755", 
+        "lon": "-0.21232"
+      }, 
+      "name": "Peterborough CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Peterborough CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "0182", 
+      "contact": {
+        "address1": "Oxney Road", 
+        "address2": "", 
+        "city": "Peterborough", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "PE1 5NG", 
+        "telephone": "01733896229"
+      }, 
+      "district_code": "0417", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.58794", 
+        "lon": "-0.21472"
+      }, 
+      "name": "Peterborough PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }
+      ], 
+      "other_name": "Peterborough PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "10010417", 
+      "contact": {
+        "address1": "Oxney Road", 
+        "address2": "", 
+        "city": "PETERBOROUGH", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "PE1 5NG", 
+        "telephone": "01733 349346"
+      }, 
+      "district_code": "0417", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 61, 
+          "name": "Supervised Administration"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 66, 
+          "name": "Medicines Assessment & Compliance Support"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 68, 
+          "name": "Minor Ailment Service"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 73, 
+          "name": "Patient Group Directions"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.58755", 
+        "lon": "-0.21232"
+      }, 
+      "name": "Peterborough PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Peterborough PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "10110417", 
+      "contact": {
+        "address1": "Oxney Road", 
+        "address2": "", 
+        "city": "PETERBOROUGH", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "PE1 5NG", 
+        "telephone": "01733 555465"
+      }, 
+      "district_code": "0417", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "52.58755", 
+        "lon": "-0.21232"
+      }, 
+      "name": "Peterborough Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Peterborough Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "4650", 
+      "contact": {
+        "address1": "Grampian Drive", 
+        "address2": "", 
+        "city": "Peterlee", 
+        "county": "", 
+        "manager": "Joe Peacock", 
+        "post_code": "SR8 2LR", 
+        "telephone": "0191 518 0232"
+      }, 
+      "district_code": "4650", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "East Durham Trust", 
+          "charity_url": "http://www.eastdurhamtrust.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1117642", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Durham County Carers Support", 
+          "charity_url": "http://www.dccarers.org/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1069278", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Stray Aid", 
+          "charity_url": "http://www.strayaid.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1117372", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "54.75688", 
+        "lon": "-1.35393"
+      }, 
+      "name": "Peterlee Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "06:00"
+        }
+      ], 
+      "other_name": "Peterlee Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": {
+        "description": "", 
+        "end_date": null, 
+        "start_date": null
+      }, 
+      "code": "4969", 
+      "contact": {
+        "address1": "11 Station Square", 
+        "address2": "Petts Wood", 
+        "city": "Orpington", 
+        "county": "", 
+        "manager": "Caroline Mitton", 
+        "post_code": "BR5 1LY", 
+        "telephone": "01689 870806"
+      }, 
+      "district_code": "4969", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 1, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 2, 
+          "registered_charity_number": "", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": "", 
+          "charity_url": "", 
+          "nomination_number": 3, 
+          "registered_charity_number": "", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.38971", 
+        "lon": "0.07552"
+      }, 
+      "name": "Petts W'd Stat'n Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Petts Wood Station Square Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4053", 
+      "contact": {
+        "address1": "Unit 1", 
+        "address2": "Piccadilly Station", 
+        "city": "Manchester", 
+        "county": "", 
+        "manager": "Mike Hayes", 
+        "post_code": "M1 2BN", 
+        "telephone": "0161 236 8572"
+      }, 
+      "district_code": "4053", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Poverty", 
+          "charity_name": "Cash For Kids", 
+          "charity_url": "http://www.key103.co.uk/cashforkids", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1122062", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Youth Cancer Trust", 
+          "charity_url": "http://www.youthcancertrust.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1064736", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "RNIB", 
+          "charity_url": "http://www.rnib.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "226227", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.47710", 
+        "lon": "-2.23139"
+      }, 
+      "name": "Piccadilly Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:59", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:59", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Manchester Piccadilly Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "0009", 
+      "contact": {
+        "address1": "99 Wilton Road", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Shady Issa", 
+        "post_code": "SW1V 1DT", 
+        "telephone": "020 7931 8988"
+      }, 
+      "district_code": "0009", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Teenage Cancer Trust", 
+          "charity_url": "http://www.teenagecancertrust.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1062559", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Youth/Employability", 
+          "charity_name": "The Pimlico Foundation", 
+          "charity_url": "http://pimlicofoundation.com/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1159844", 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.49302", 
+        "lon": "-0.14121"
+      }, 
+      "name": "Pimlico", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Pimlico", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": {
+        "description": "Closed for refurbishment.", 
+        "end_date": "2016-11-09", 
+        "start_date": "2016-11-01"
+      }, 
+      "code": "0682", 
+      "contact": {
+        "address1": "1 Hill Barton Road", 
+        "address2": "", 
+        "city": "Exeter", 
+        "county": "", 
+        "manager": "Tony Gregg", 
+        "post_code": "EX1 3PF", 
+        "telephone": "01392 460669"
+      }, 
+      "district_code": "0682", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 21, 
+          "name": "Travel Money"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 30, 
+          "name": "Car Wash"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 81, 
+          "name": "Argos Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 108, 
+          "name": "Electric Vehicle Charging Point"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Dream-A-Way", 
+          "charity_url": "http://www.dream-a-way.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1155175", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "The Friends of Poltimore House", 
+          "charity_url": "http://www.poltimore.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1111977", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "The South West MS Centre", 
+          "charity_url": "http://www.southwestmscentre.co.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "900083", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.73321", 
+        "lon": "-3.48026"
+      }, 
+      "name": "Pinhoe Rd", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pinhoe Road", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": {
+        "description": "Closed for refurbishment.", 
+        "end_date": "2016-11-09", 
+        "start_date": "2016-11-01"
+      }, 
+      "code": "0333", 
+      "contact": {
+        "address1": "1 Hill Barton Road", 
+        "address2": "", 
+        "city": "EXETER", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "EX1 3PF", 
+        "telephone": ""
+      }, 
+      "district_code": "0682", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.73321", 
+        "lon": "-3.48026"
+      }, 
+      "name": "Pinhoe Rd CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Pinhoe Rd CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "0190", 
+      "contact": {
+        "address1": "1 Hill Barton Road", 
+        "address2": "", 
+        "city": "Exeter", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "EX1 3PF", 
+        "telephone": "01392460518"
+      }, 
+      "district_code": "0682", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.73427", 
+        "lon": "-3.48043"
+      }, 
+      "name": "Pinhoe Rd PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:30", 
+          "start_time": "06:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Pinhoe Rd PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": {
+        "description": "Closed for refurbishment.", 
+        "end_date": "2016-11-09", 
+        "start_date": "2016-11-01"
+      }, 
+      "code": "10010682", 
+      "contact": {
+        "address1": "1 Hill Barton Road", 
+        "address2": "", 
+        "city": "EXETER", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "EX1 3PF", 
+        "telephone": "01392 469687"
+      }, 
+      "district_code": "0682", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 64, 
+          "name": "Stop Smoking"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 65, 
+          "name": "Care Home"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 66, 
+          "name": "Medicines Assessment & Compliance Support"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 67, 
+          "name": "Medication Review"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 68, 
+          "name": "Minor Ailment Service"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 69, 
+          "name": "Out of Hours"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 71, 
+          "name": "Emergency Hormonal Contraception"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 73, 
+          "name": "Patient Group Directions"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 75, 
+          "name": "NHS Health Check"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.73321", 
+        "lon": "-3.48026"
+      }, 
+      "name": "Pinhoe Road PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pinhoe Road PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": {
+        "description": "Closed for refurbishment.", 
+        "end_date": "2016-11-09", 
+        "start_date": "2016-11-01"
+      }, 
+      "code": "10110682", 
+      "contact": {
+        "address1": "1 Hill Barton Road", 
+        "address2": "", 
+        "city": "EXETER", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "EX1 3PF", 
+        "telephone": "01392 460852"
+      }, 
+      "district_code": "0682", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "50.73321", 
+        "lon": "-3.48026"
+      }, 
+      "name": "Pinhoe Road Travel Money", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "18:30", 
+          "start_time": "09:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Pinhoe Road Travel Money", 
+      "store_type": "tm"
+    }, 
+    {
+      "closed": null, 
+      "code": "0504", 
+      "contact": {
+        "address1": "12 Barters Walk", 
+        "address2": "", 
+        "city": "Pinner", 
+        "county": "", 
+        "manager": "Ian Cahill", 
+        "post_code": "HA5 5LU", 
+        "telephone": "020 8868 1399"
+      }, 
+      "district_code": "0504", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Harrow Carers", 
+          "charity_url": "http://www.charitychoice.co.uk/harrowcarers", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1062149", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Royal Brompton & Harefield Hospitals Charity", 
+          "charity_url": "https://rbhcharity.org/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1053584", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Mount Vernon Cancer Centre Charitable Fund", 
+          "charity_url": "http://https:www.enherts-tr.nhs.uk/get-involved/our-charity/mount-vernon-cancer-centre-charitable-fund/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1053338", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "51.59337", 
+        "lon": "-0.38079"
+      }, 
+      "name": "Pinner", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pinner", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "10010504", 
+      "contact": {
+        "address1": "12 Barters Walk", 
+        "address2": "", 
+        "city": "PINNER", 
+        "county": "", 
+        "manager": null, 
+        "post_code": "HA5 5LU", 
+        "telephone": "0208 8665707"
+      }, 
+      "district_code": "0504", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 47, 
+          "name": "Pharmacy"
+        }, 
+        {
+          "category_id": 18, 
+          "category_name": "Pharmacy-Specific Facilities", 
+          "id": 72, 
+          "name": "Seasonal Influenza Vaccination"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.59337", 
+        "lon": "-0.38079"
+      }, 
+      "name": "Pinner PH", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pinner PH", 
+      "store_type": "pharmacy"
+    }, 
+    {
+      "closed": null, 
+      "code": "6118", 
+      "contact": {
+        "address1": "22-24 Bridge Rd", 
+        "address2": "Park Gate", 
+        "city": "Southampton", 
+        "county": "", 
+        "manager": "Wayne Fredericks", 
+        "post_code": "SO31 7GE", 
+        "telephone": "01489 722400"
+      }, 
+      "district_code": "6118", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 1, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": null, 
+          "winner": false
+        }, 
+        {
+          "charity_category": null, 
+          "charity_name": null, 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": null, 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.87188", 
+        "lon": "-1.26761"
+      }, 
+      "name": "Pk Gte Bridge Rd Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Southampton Park Gate Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4188", 
+      "contact": {
+        "address1": "Stone Cross", 
+        "address2": "Penkridge", 
+        "city": "Stafford", 
+        "county": "", 
+        "manager": "Fiona Nicholls", 
+        "post_code": "ST19 5AS", 
+        "telephone": "01785 359400"
+      }, 
+      "district_code": "4188", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Penkridge round Table", 
+          "charity_url": "http://penkridge.roundtable.co.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1135237", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Emergency", 
+          "charity_name": "Penkridge and District First Responders", 
+          "charity_url": "http://padcfr.com/", 
+          "nomination_number": 2, 
+          "registered_charity_number": " 1135237", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Beacon Centre for the Blind", 
+          "charity_url": "https://actionforblindpeople.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "205913", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "52.72615", 
+        "lon": "-2.11665"
+      }, 
+      "name": "Pkrdg Stone Crss Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Penkridge Stone Cross Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4876", 
+      "contact": {
+        "address1": "342-344 Green Lanes", 
+        "address2": "", 
+        "city": "London", 
+        "county": "", 
+        "manager": "Dan Kent", 
+        "post_code": "N13 5TW", 
+        "telephone": "020 8276 2800"
+      }, 
+      "district_code": "4876", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Ruth Winston Care Centre", 
+          "charity_url": "http://www.ruthwinstoncentre.com", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1057968", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "St Mark's Day Care Service", 
+          "charity_url": null, 
+          "nomination_number": 2, 
+          "registered_charity_number": "1106204", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Nightingale Cancer Trust", 
+          "charity_url": "http://www.nightingalesupport.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1094435", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "51.61987", 
+        "lon": "-0.10647"
+      }, 
+      "name": "Plmrs Grn Grn Ls Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Palmers Green Green Lanes Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4288", 
+      "contact": {
+        "address1": "61, Ebrington Street", 
+        "address2": "", 
+        "city": "Plymouth", 
+        "county": "", 
+        "manager": "Donna-Marie Lanchbury", 
+        "post_code": "PL4 9AQ", 
+        "telephone": "01752 269456"
+      }, 
+      "district_code": "4288", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Little Things", 
+          "charity_url": "http://littlethingsangelclothes.co.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1165463", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Jeremiah's Journey", 
+          "charity_url": "http://jeremiahsjourney.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1144431", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Macmillan", 
+          "charity_url": "http://www.macmillan.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "2610107", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.37257", 
+        "lon": "-4.13386"
+      }, 
+      "name": "Plmth Ebrgtn St Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Plymouth Ebrington Street Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4298", 
+      "contact": {
+        "address1": "9-11 Mutley Plain", 
+        "address2": "", 
+        "city": "Plymouth", 
+        "county": "", 
+        "manager": "Donna-Marie Lanchbury", 
+        "post_code": "PL4 6JG", 
+        "telephone": "01752 613130"
+      }, 
+      "district_code": "4298", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Little Things", 
+          "charity_url": "http://www.littlethingsangelclothes.co.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1165463", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Jeremiah's Journey", 
+          "charity_url": "http://jeremiahsjourney.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1144431", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Macmillan Cancer Support", 
+          "charity_url": "http://www.macmillan.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "2610107", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.38071", 
+        "lon": "-4.13323"
+      }, 
+      "name": "Plmth Mutley Pln Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Plymouth Mutley Plain Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "0654", 
+      "contact": {
+        "address1": "The Armada Centre", 
+        "address2": "Armada Centre", 
+        "city": "Plymouth", 
+        "county": "", 
+        "manager": "Warren Knight", 
+        "post_code": "PL1 1LE", 
+        "telephone": "01752 674767"
+      }, 
+      "district_code": "0654", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Emergency", 
+          "charity_name": "Dartmoor Search and Rescue (Plymouth)", 
+          "charity_url": "http://www.dartmoorsartplymouth.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1106095", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Bowel Cancer West ", 
+          "charity_url": "http://www.bowelcancerwest.co.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1140271", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Devon Freewheelers", 
+          "charity_url": "http://www.freewheelers.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1138889", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.37379", 
+        "lon": "-4.14365"
+      }, 
+      "name": "Plymouth", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:30", 
+          "start_time": "10:30"
+        }
+      ], 
+      "other_name": "Plymouth", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "2140", 
+      "contact": {
+        "address1": "The Balk", 
+        "address2": "Pocklington", 
+        "city": "York", 
+        "county": "", 
+        "manager": "Dave Gee", 
+        "post_code": "YO42 2GG", 
+        "telephone": "01759 305974"
+      }, 
+      "district_code": "2140", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "Second Thoughts", 
+          "charity_url": "http://www.secondthoughtseastyorkshire.btck.co.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1162624", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "RDA (Riding For The Disabled Association)", 
+          "charity_url": "http://www.rda.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "244108", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "OSCARS Paediatric Brain Tumour Charity", 
+          "charity_url": "http://www.oscarspbtc.org", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1159063", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "53.92757", 
+        "lon": "-0.77736"
+      }, 
+      "name": "Pocklington", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pocklington", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "4859", 
+      "contact": {
+        "address1": "Bell Villas", 
+        "address2": "Ponteland", 
+        "city": "Newcastle Upon Tyne", 
+        "county": "", 
+        "manager": "Ian Coates", 
+        "post_code": "NE20 9BE", 
+        "telephone": "01661 823740"
+      }, 
+      "district_code": "4859", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Northern Counties Kidney Research Fund", 
+          "charity_url": "http://www.nckrf.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "700037", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Guide Dogs", 
+          "charity_url": "http://www.guidedogs.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "209617", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Bright Red  (Blood Cancer)", 
+          "charity_url": "http://www.brightred.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1105891", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "55.04970", 
+        "lon": "-1.73907"
+      }, 
+      "name": "Ponteland", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "Ponteland", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "2225", 
+      "contact": {
+        "address1": "Newbridge Rd Industrial Estate", 
+        "address2": "Pontllanfraith", 
+        "city": "Blackwood", 
+        "county": "", 
+        "manager": "Alyn Davies", 
+        "post_code": "NP12 2AN", 
+        "telephone": "01495 262100"
+      }, 
+      "district_code": "2225", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 44, 
+          "name": "Homewares"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 50, 
+          "name": "Sainsbury's Coffee Bar"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 82, 
+          "name": "eBay Collect"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 83, 
+          "name": "DPD Pickup"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Trinity Fields Special Need", 
+          "charity_url": "http://www.trinityfieldsschoolandresourcecentre.co.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1084033", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Newbridge Memo", 
+          "charity_url": "http://www.newbridgememo.co.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1137112", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "Four Paws Animal Rescue", 
+          "charity_url": "http://www.fourpawsanimalrescue.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1117893", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "51.65768", 
+        "lon": "-3.17391"
+      }, 
+      "name": "Pontllanfraith", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pontllanfraith", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3225", 
+      "contact": {
+        "address1": "Newbridge Rd Industrial Estate", 
+        "address2": "Pontllanfraith", 
+        "city": "BLACKWOOD", 
+        "county": "", 
+        "manager": ".", 
+        "post_code": "NP12 2AN", 
+        "telephone": ""
+      }, 
+      "district_code": "2225", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.65768", 
+        "lon": "-3.17391"
+      }, 
+      "name": "Pontllanfraith CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "15:30", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Pontllanfraith CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "1225", 
+      "contact": {
+        "address1": "Newbridge Rd Industrial Estate", 
+        "address2": "Pontllanfraith", 
+        "city": "Blackwood", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "NP12 2AN", 
+        "telephone": "01495 262106"
+      }, 
+      "district_code": "2225", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.65728", 
+        "lon": "-3.17626"
+      }, 
+      "name": "Pontllanfraith PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "20:00", 
+          "start_time": "08:00"
+        }
+      ], 
+      "other_name": "Pontllanfraith PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "2274", 
+      "contact": {
+        "address1": "Brown Lennox Retail Park", 
+        "address2": "Ynysangharad Road", 
+        "city": "Pontypridd", 
+        "county": "", 
+        "manager": "Chris Thompson", 
+        "post_code": "CF37 4DA", 
+        "telephone": "01443 618000"
+      }, 
+      "district_code": "2274", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 24, 
+          "name": "Jet Wash"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 36, 
+          "name": "Salad Bar"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 37, 
+          "name": "TVs & Digital"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 40, 
+          "name": "Phones"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "2 Wish Upon A Star", 
+          "charity_url": "http://www.2wishuponastar.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1149499", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Age Connects Morgannwg", 
+          "charity_url": "http://www.acmorgannwg.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1129973", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Emergency", 
+          "charity_name": "Central Beacons Mountain Rescue Team ", 
+          "charity_url": "http://www.cbmrt.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "507694", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "51.60127", 
+        "lon": "-3.33081"
+      }, 
+      "name": "Pontypridd", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Pontypridd", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "3274", 
+      "contact": {
+        "address1": "Brown Lennox Retail Park", 
+        "address2": "Ynysangharad Road", 
+        "city": "PONTYPRIDD", 
+        "county": "", 
+        "manager": "TBC", 
+        "post_code": "CF37 4DA", 
+        "telephone": ""
+      }, 
+      "district_code": "2274", 
+      "exception_times": [], 
+      "facilities": [], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.60127", 
+        "lon": "-3.33081"
+      }, 
+      "name": "Pontypridd CS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "19:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "09:30"
+        }
+      ], 
+      "other_name": "Pontypridd CS", 
+      "store_type": "restaurant"
+    }, 
+    {
+      "closed": null, 
+      "code": "1274", 
+      "contact": {
+        "address1": "Brown Lennox Retail Park", 
+        "address2": "Ynysangharad Road", 
+        "city": "Pontypridd", 
+        "county": "", 
+        "manager": "", 
+        "post_code": "CF37 4DA", 
+        "telephone": "0144 361 8010"
+      }, 
+      "district_code": "2274", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 78, 
+          "name": "Costa Express"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 101, 
+          "name": "f004"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [], 
+      "location": {
+        "lat": "51.60042", 
+        "lon": "-3.32916"
+      }, 
+      "name": "Pontypridd PFS", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:30", 
+          "start_time": "06:30"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Pontypridd PFS", 
+      "store_type": "pfs"
+    }, 
+    {
+      "closed": null, 
+      "code": "0660", 
+      "contact": {
+        "address1": "11 Pitwines Close", 
+        "address2": "", 
+        "city": "Poole", 
+        "county": "", 
+        "manager": "Kevin Strowger", 
+        "post_code": "BH15 1XU", 
+        "telephone": "01202 682426"
+      }, 
+      "district_code": "0660", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 31, 
+          "name": "Computer Games"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 35, 
+          "name": "Books"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Forest Holme", 
+          "charity_url": "http://www.forestholmehospice.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1038021", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Amelia's Rainbow", 
+          "charity_url": "http://www.ameliasrainbow.org/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1146031", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "MNDA East Dorset & New Forest", 
+          "charity_url": "http://www.mndedorsetandnforest.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "294354", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.71671", 
+        "lon": "-1.98129"
+      }, 
+      "name": "Poole", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "20:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Poole", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "4825", 
+      "contact": {
+        "address1": "Orchard Plaza", 
+        "address2": "39 High Street", 
+        "city": "Poole", 
+        "county": "", 
+        "manager": "Jenia Williams", 
+        "post_code": "BH15 1EG", 
+        "telephone": "01202 669556"
+      }, 
+      "district_code": "4825", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Marie Curie", 
+          "charity_url": "https://www.mariecurie.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "207994", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Guide Dogs", 
+          "charity_url": "http://www.guidedogs.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "209617", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Amelia's Rainbow", 
+          "charity_url": "http://www.ameliasrainbow.org", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1146031", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "50.71380", 
+        "lon": "-1.98609"
+      }, 
+      "name": "Poole Town Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "Poole Town Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "2252", 
+      "contact": {
+        "address1": "Serbert Road", 
+        "address2": "Portishead", 
+        "city": "Bristol", 
+        "county": "", 
+        "manager": "Robin Ireland", 
+        "post_code": "BS20 7GD", 
+        "telephone": "01275 512 500"
+      }, 
+      "district_code": "2252", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 11, 
+          "name": "Petrol"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 12, 
+          "name": "News & Magazines"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 14, 
+          "name": "Womenswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 17, 
+          "name": "Diesel"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 20, 
+          "name": "Menswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 27, 
+          "name": "Kidswear"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 16, 
+          "category_name": "Tu Clothing range", 
+          "id": 33, 
+          "name": "Jewellery"
+        }, 
+        {
+          "category_id": 15, 
+          "category_name": "Petrol station", 
+          "id": 34, 
+          "name": "Super Unleaded"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 39, 
+          "name": "Sainsbury's Restaurant"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 42, 
+          "name": "Small Domestic Appliances"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 43, 
+          "name": "Toys"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 45, 
+          "name": "Cookware"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 46, 
+          "name": "Home Textiles"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 108, 
+          "name": "Electric Vehicle Charging Point"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "Springboard Opportunity Group", 
+          "charity_url": "http://www.springboardweb.org.uk", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1025787", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Penny Brohn Cancer Care", 
+          "charity_url": "http://www.pennybrohncancercare.org", 
+          "nomination_number": 2, 
+          "registered_charity_number": "284881", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Children's Hospice South West", 
+          "charity_url": "http://www.chsw.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1003314", 
+          "winner": true
+        }
+      ], 
+      "location": {
+        "lat": "51.48410", 
+        "lon": "-2.76116"
+      }, 
+      "name": "Portishead", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "22:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "16:00", 
+          "start_time": "10:00"
+        }
+      ], 
+      "other_name": "Portishead", 
+      "store_type": "main"
+    }
+  ]
+}

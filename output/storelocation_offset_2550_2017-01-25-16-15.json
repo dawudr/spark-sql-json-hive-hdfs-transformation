@@ -1,0 +1,444 @@
+{
+  "page_meta": {
+    "limit": 50, 
+    "offset": 2550, 
+    "total": 2553
+  }, 
+  "results": [
+    {
+      "closed": null, 
+      "code": "0830", 
+      "contact": {
+        "address1": "Foss Bank", 
+        "address2": "", 
+        "city": "York", 
+        "county": "", 
+        "manager": "Michael Watkiss", 
+        "post_code": "YO31 7JB", 
+        "telephone": "01904 643801"
+      }, 
+      "district_code": "0830", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 4, 
+          "name": "Self Checkout"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 5, 
+          "name": "Hot Food Counter"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 9, 
+          "name": "Accessible Toilets"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 10, 
+          "name": "Deli"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 13, 
+          "name": "Recycling"
+        }, 
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 15, 
+          "name": "Saveback"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 16, 
+          "name": "Toilets"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 18, 
+          "name": "Greetings Cards"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 22, 
+          "name": "Baby Change"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 23, 
+          "name": "Fish Counter"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 25, 
+          "name": "CDs & DVDs"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 28, 
+          "name": "Parking"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 29, 
+          "name": "Meat Counter"
+        }, 
+        {
+          "category_id": 9, 
+          "category_name": "Click & Collect", 
+          "id": 79, 
+          "name": "Tu Click & Collect"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Special Care Baby Unit Support Group at York Hospital", 
+          "charity_url": "http://www.supportscbuyork.co.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "516552", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Age UK York", 
+          "charity_url": "http://www.ageuk.org.uk/york/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "1118346", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Mental health", 
+          "charity_name": "York Mind", 
+          "charity_url": "https://www.yorkmind.org.uk/", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1006759", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.96331", 
+        "lon": "-1.07449"
+      }, 
+      "name": "York", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "21:00", 
+          "start_time": "08:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "17:00", 
+          "start_time": "11:00"
+        }
+      ], 
+      "other_name": "York", 
+      "store_type": "main"
+    }, 
+    {
+      "closed": null, 
+      "code": "4348", 
+      "contact": {
+        "address1": "Units 1-3 Queens House", 
+        "address2": "Micklegate", 
+        "city": "York", 
+        "county": "", 
+        "manager": "Liam Fox", 
+        "post_code": "YO1 6WG", 
+        "telephone": "01904 886860"
+      }, 
+      "district_code": "4348", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 10, 
+          "category_name": "Banking facilities", 
+          "id": 2, 
+          "name": "ATM"
+        }, 
+        {
+          "category_id": 11, 
+          "category_name": "Food counters", 
+          "id": 3, 
+          "name": "Bakery"
+        }, 
+        {
+          "category_id": 13, 
+          "category_name": "Services", 
+          "id": 6, 
+          "name": "National Lottery"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 7, 
+          "name": "Induction Loop"
+        }, 
+        {
+          "category_id": 14, 
+          "category_name": "Ranges", 
+          "id": 8, 
+          "name": "Floral"
+        }, 
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Disability", 
+          "charity_name": "York Blind and Partially Sighted Society", 
+          "charity_url": "http://ybpss.org", 
+          "nomination_number": 1, 
+          "registered_charity_number": "1159188", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Environment/Conservation/Animals", 
+          "charity_name": "RSPCA York", 
+          "charity_url": "http://www.rspca-yorkhome.org.uk", 
+          "nomination_number": 2, 
+          "registered_charity_number": "232222", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "York Children's Trust", 
+          "charity_url": null, 
+          "nomination_number": 3, 
+          "registered_charity_number": "222279", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.95715", 
+        "lon": "-1.08547"
+      }, 
+      "name": "York Micklegate Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "York Micklegate Local", 
+      "store_type": "local"
+    }, 
+    {
+      "closed": null, 
+      "code": "4548", 
+      "contact": {
+        "address1": "Piccadilly", 
+        "address2": "", 
+        "city": "York", 
+        "county": "", 
+        "manager": "Michelle Shields", 
+        "post_code": "YO1 9NU", 
+        "telephone": "01904 886870"
+      }, 
+      "district_code": "4548", 
+      "exception_times": [], 
+      "facilities": [
+        {
+          "category_id": 22, 
+          "category_name": "Flags", 
+          "id": 102, 
+          "name": "f005"
+        }, 
+        {
+          "category_id": 12, 
+          "category_name": "Customer facilities", 
+          "id": 104, 
+          "name": "Contactless Payments"
+        }
+      ], 
+      "local_charities": [
+        {
+          "charity_category": "Health", 
+          "charity_name": "Alzheimer's Society", 
+          "charity_url": "https://www.alzheimers.org.uk/", 
+          "nomination_number": 1, 
+          "registered_charity_number": "296645", 
+          "winner": true
+        }, 
+        {
+          "charity_category": "Health", 
+          "charity_name": "Mental Health Foundation", 
+          "charity_url": "https://www.mentalhealth.org.uk/", 
+          "nomination_number": 2, 
+          "registered_charity_number": "801130", 
+          "winner": false
+        }, 
+        {
+          "charity_category": "Community/Care", 
+          "charity_name": "Jack Raine Foundation", 
+          "charity_url": "http://www.jackrainefoundation.org.uk", 
+          "nomination_number": 3, 
+          "registered_charity_number": "1106701", 
+          "winner": false
+        }
+      ], 
+      "location": {
+        "lat": "53.95800", 
+        "lon": "-1.07996"
+      }, 
+      "name": "York Piccadilly Loc", 
+      "opening_times": [
+        {
+          "day": 0, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 1, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 2, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 3, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 4, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 5, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }, 
+        {
+          "day": 6, 
+          "end_time": "23:00", 
+          "start_time": "07:00"
+        }
+      ], 
+      "other_name": "York Piccadilly Local", 
+      "store_type": "local"
+    }
+  ]
+}
