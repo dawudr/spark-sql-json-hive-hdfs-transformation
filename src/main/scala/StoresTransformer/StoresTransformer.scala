@@ -1,17 +1,10 @@
 package StoresTransformer
 
-
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkContext._
-import org.apache.spark.SparkConf
-import com.fasterxml.jackson.module.scala.DefaultScalaModule
-import com.fasterxml.jackson.module.scala.experimental.ScalaObjectMapper
-import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.databind.DeserializationFeature
+import org.apache.spark.rdd.RDD
+import org.apache.spark.sql.SQLContext
+import org.apache.spark.{SparkConf, SparkContext}
 
 /**
-  * Created by dawud.rahman on 31/01/2017.
-  *
   *
   * $ spark-submit  --class name.space.to.MyMainClass \
   *              --master local[2] \
@@ -24,30 +17,38 @@ import com.fasterxml.jackson.databind.DeserializationFeature
   * Quickstart https://spark.apache.org/docs/latest/quick-start.html
   */
 
-class StoresTransformer {
-
-  def parse () {
-    val master = args(0)
-    val inputFile = args(1)
-    val conf = new SparkConf()
-    conf.setAppName("StoresTransformer")
-    val sc = new SparkContext(master, "StoresTransformer", System.getenv("SPARK_HOME"))
-    val sqlCtx = new SQLContext(sc)
-    val input = sqlCtx.jsonFile(inputFile)
-    input.printSchema()
-    sc.stop()
-  }
-
-}
-
-
 object StoresTransformer {
-  def apply(args: Array[String]) {
-//    if (args.length != 2) {
-//      println("Usage: [sparkmaster] [inputFile]")
-//      exit(1)
-//    } else {
-      new StoresTransformer()
-//    }
+
+  def main(args: Array[String]): Unit = {
+    if (args.length != 2) {
+    println("Usage: [sparkmaster] [inputFile]")
+    //exit(1)
+    }
+
+  val conf = new SparkConf ()
+  .setAppName ("StoresTransformer")
+  .setMaster ("local[*]")
+
+  val sc = new SparkContext (conf)
+    val sqlContext = new SQLContext(sc)
+
+    val files: RDD[(String, String)] = sc.wholeTextFiles("output/storelocation_offset_50_2017-01-25-16-15.json")
+    val jsonData: RDD[String] = files.map(x => x._2)
+//    jsonData.foreach(x => {
+//      println(x)
+//    })
+
+    val df = sqlContext.read.json(jsonData)
+    val storesdf = df.select("results")
+//    storesdf.printSchema()
+    val storedf = storesdf.select()
+    storedf.show()
+    storedf.printSchema()
+
+
+
+
+
   }
+
 }

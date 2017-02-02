@@ -1,5 +1,8 @@
 *.class
 
+# Keep large test files out of git
+src/test/resources/com/sainsburys/connect/HugeFile/*
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -21,6 +24,7 @@ target
 
 jms_kafka_adapter.log
 logging.*
+rsync.log
 
 # Idea
 .idea
